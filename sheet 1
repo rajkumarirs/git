@@ -23,4 +23,5 @@ switch to another branch and check it out into your working directory
 git merge [branch]
 merge the specified branch’s history into the current one
 git log
-show all commits in the current branch’s history      
+show all commits in the current branch’s history   git is distrbuted version control tool.
+git is devops tools.
